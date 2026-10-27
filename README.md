@@ -6,3 +6,5 @@ _Любое копирование без разрешения правообл�
 
 Скоро запуск! Следите за обновлениями.
 This is new text in earlyorder
+
+I make changes here
