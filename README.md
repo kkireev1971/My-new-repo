@@ -5,4 +5,10 @@
 _Любое копирование без разрешения правообладателя и без указания ссылки на источник запрещено._
 
 Скоро запуск! Следите за обновлениями.
+
 This is new text in main
+
+This is new text in earlyorder
+
+I make changes here
+
